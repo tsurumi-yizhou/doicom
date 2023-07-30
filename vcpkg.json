@@ -1,0 +1,8 @@
+{
+  "name": "doicom",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "boost-asio", "boost-endian", "boost-uuid", "boost-test",
+    "fmt", "range-v3", "nlohmann-json"
+  ]
+}

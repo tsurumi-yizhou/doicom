@@ -1,0 +1,26 @@
+{
+    "network": {
+        "adapter_num": 3,
+        "auth_version": [104, 0],
+        "control_check_status": 32,
+        "eapol_flag": 0,
+        "eternal_flag": 0,
+        "ip_dog": 1,
+        "keepalive2_flag": 0,
+        "keepalive_mode": 1,
+        "keepalive_version": [220, 2],
+        "pppoe_flag": 0,
+        "ror_version": 1
+    },
+    "user": {
+        "account": "test",
+        "auth_server": "10.100.61.3",
+        "dhcp_server": [0, 0, 0, 0],
+        "host_ip": [49, 140, 8, 95],
+        "host_name": "Galaxy Book 2",
+        "mac_addr": [0, 224, 76, 143, 8, 15],
+        "password": "password_test",
+        "platform": "Windows NT 10",
+        "primary_dns": [10, 10, 10, 10]
+    }
+}

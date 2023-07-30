@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+*/.DS_Store
+
+# clion
+.idea/
+build/
+cmake-build-debug/
+
+# Visual Studio
+out/
+.vs/
+
+# Visual Studio Code
+.vscode/
